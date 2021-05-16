@@ -10,14 +10,15 @@ body {
 }
 
 .max-width-wrapper {
-  max-width: 540px;
+  max-width: 580px;
   margin: 0 auto;
 }
 
 .intro-chunk {
   line-height: 1.5;
   font-size: 1.25rem;
-  max-width: 340px;
+  max-width: 380px;
+  padding: 0 24px;
 }
 
 .title {
@@ -40,8 +41,7 @@ main {
 .card {
   line-height: 1.5;
   background-color: white;
-  margin: -24px;
-  padding: 24px;
+  padding: 24px 24px 8px;
   border-bottom: 8px solid hsl(0deg, 0%, 40%);
 }
 
